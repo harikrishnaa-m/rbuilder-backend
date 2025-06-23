@@ -1,0 +1,8 @@
+                  JSON SERVER CREATION
+                  --------------------
+
+    1.Create Folder named as SERVER
+    2. Create a package.json file inside folder - npm init -y
+    3.Instal json-server - npm i json-server
+    4.Create index.js (main file) - server logics
+    5.Create db.json file for storing json data
